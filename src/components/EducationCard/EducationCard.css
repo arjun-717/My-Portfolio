@@ -1,0 +1,19 @@
+.grey{
+    filter: grayscale(100%);
+    transition: filter 0.6s ease;
+}
+
+.grey:hover{
+    filter: grayscale(0%);
+    transition: 0.6s ease-in;
+}
+.up{
+    transition: transform 0.4s ease;
+}
+
+.up:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    
+}
+

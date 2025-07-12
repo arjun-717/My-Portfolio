@@ -1,0 +1,17 @@
+.about-bg{
+   /* background: #000000; */
+   color: white;
+/* background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(3, 2, 15, 1) 51%, rgba(0, 0, 0, 1) 100%); */
+}
+
+.change-text{
+   
+   transition: color 0.6s ease,font-size 0.6s ease;
+}
+.change-color{
+   color: rgb(39, 215, 23);
+   
+   transition: 0.6s ease;
+   font-size: 25px;
+ 
+}

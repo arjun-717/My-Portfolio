@@ -1,0 +1,9 @@
+.res{
+    height: 80%;
+}
+
+@media (min-width:400p) {
+    .res{
+        height: 20%;
+    }
+}

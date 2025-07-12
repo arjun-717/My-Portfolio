@@ -1,0 +1,11 @@
+input,textarea{
+    border:0.5px solid rgba(147,147,147,0.8);
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+    
+}
+input:focus , textarea:focus{
+    background-color: rgba(147,147,147,0.2);
+    transition: 0.4s;
+}

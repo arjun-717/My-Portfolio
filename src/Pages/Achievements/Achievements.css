@@ -1,0 +1,12 @@
+.achievements{
+       background: #262626;
+background: linear-gradient(90deg, rgba(38, 38, 38, 1) 0%, rgba(0, 0, 0, 1) 51%, rgba(38, 38, 38, 1) 100%);
+    color: white;
+    min-height: 100vh;
+}
+
+.bg:hover{
+    filter: grayscale(0%);
+    transition: 0.4s ease-in-out;
+    background-color: rgba(147,147,147,0.2);
+}

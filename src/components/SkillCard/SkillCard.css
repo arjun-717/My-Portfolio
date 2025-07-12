@@ -1,0 +1,6 @@
+.effect{
+    /* border: 3px solid; */
+    background-color: rgba(147, 147, 147, 0.367);
+    transition: 0.5s;
+    box-shadow: rgba(227, 227, 227, 0.1) 0px 4px 16px, rgba(255, 255, 255, 0.1) 0px 8px 24px, rgba(255, 255, 255, 0.1) 0px 16px 56px;
+}
